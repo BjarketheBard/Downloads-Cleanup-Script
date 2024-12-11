@@ -30,3 +30,7 @@ python "Downloads CleanUp App.py"
 ## Notes
 - Make sure to set up your folders using the program's GUI the first time you run it.
 - If you encounter any issues, ensure Python and `pip` are installed correctly.
+=======
+# Downloads-Cleanup-Script
+Small Script that cleans my download folder every day into a folder, and then empties that folder every week.
+
