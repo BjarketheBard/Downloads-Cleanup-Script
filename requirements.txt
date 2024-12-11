@@ -1,0 +1,2 @@
+PySimpleGUI
+send2trash
